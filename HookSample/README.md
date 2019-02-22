@@ -1,4 +1,4 @@
-# Sample of simple WebHook for TheHive
+# HookSample
 
 The purpose of this sample is to provide example of webhook creation & syntax.
 
