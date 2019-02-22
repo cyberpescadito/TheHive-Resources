@@ -9,7 +9,9 @@ Feel free to adapt and modify it according to your needs.
 # How to use it
 
 Place the handlers.py in your folder thehive_hooks
+
 Change the content of the api variable in handlers.py according to your context
+
 Run the flask
 
 # Dependences :
