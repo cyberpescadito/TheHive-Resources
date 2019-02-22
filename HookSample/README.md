@@ -6,7 +6,7 @@ In this sample, when a case with the customfield "TLA" is updated, it will look 
 
 Feel free to adapt and modify it according to your needs.
 
-#How to use it
+# How to use it
 
 Place the handlers.py in your folder thehive_hooks
 Change the content of the api variable in handlers.py according to your context
