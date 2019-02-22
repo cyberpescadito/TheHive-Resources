@@ -15,7 +15,8 @@ Run the flask
 # Dependences :
 
 Python
-TheHive4py
+TheHive4py library
+json library
 TheHiveHooks, you can install it following (https://github.com/TheHive-Project/TheHiveHooks)
 
 # Author
